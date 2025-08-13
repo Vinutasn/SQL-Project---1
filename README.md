@@ -1,2 +1,10 @@
-# SQL-Project---1
-SQL project analyzing an Online Book Store database (Books, Customers, Orders) using PostgreSQL. Includes 20 queries for book &amp; customer insights, sales/revenue analysis, inventory tracking, and identifying top-selling books &amp; loyal customers.
+# 📚 Online Book Store – SQL Project
+
+A SQL-based project analyzing an **Online Book Store** database with tables for Books, Customers, and Orders.  
+Includes 20 queries covering:
+- Book & customer data analysis
+- Sales & revenue reports
+- Inventory management
+- Identifying top-selling books and loyal customers
+
+**Tech:** PostgreSQL | **Skills:** SELECT, JOIN, GROUP BY, HAVING, Aggregations, Subqueries
