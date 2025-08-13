@@ -1,4 +1,4 @@
-# 📚 Online Book Store – SQL Project
+# Online Book Store – SQL Project
 
 A SQL-based project analyzing an **Online Book Store** database with tables for Books, Customers, and Orders.  
 Includes 20 queries covering:
