@@ -45,11 +45,12 @@ SQL Concepts:
 **📜 How to Run This Project**
 
 1. Clone this repository:
+   
    git clone https://github.com/your-username/online-bookstore-sql.git
-2. Open Online Book Store_SQL_Data_Analysis.sql in your SQL editor.
-3. Run the CREATE DATABASE and CREATE TABLE statements.
-4. Insert or import dataset records.
-5. Execute queries to explore and analyze the data.
+3. Open Online Book Store_SQL_Data_Analysis.sql in your SQL editor.
+4. Run the CREATE DATABASE and CREATE TABLE statements.
+5. Insert or import dataset records.
+6. Execute queries to explore and analyze the data.
 
 **📈 Sample Insights**
 
