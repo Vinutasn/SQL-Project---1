@@ -59,5 +59,5 @@ SQL Concepts:
 
 **📧 Contact**
 
-**Vinuta Nadiger**
+**Vinuta Nadiger** 
 📩 vinuta.nadiger1@gmail.com
